@@ -1,0 +1,21 @@
+git init
+git status
+git add .
+git add <filename>
+git log
+git restore --staged <filename>
+git reset <log key>
+git log
+
+
+
+
+
+
+
+
+
+
+
+
+
